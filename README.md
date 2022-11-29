@@ -1,2 +1,2 @@
 # Python_Assignments
-This repository contains all the codes and assignments related to Big_data using Python.
+This repository contains all the codes and assignments related to Big Data using Python.
